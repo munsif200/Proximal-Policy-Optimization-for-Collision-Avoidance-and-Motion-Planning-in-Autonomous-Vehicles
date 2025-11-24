@@ -14,15 +14,20 @@ This research explores the application of Proximal Policy Optimization (PPO), a 
 
 ## Citation
 
-If you use this code or find this research useful, please cite:
+If you use this code or find this research useful, please cite the paper:
+
+**DOI:** 10.1142/S0218348X25401711
+
+For full citation details including authors, volume, issue, and page numbers, please visit the [paper page](https://www.worldscientific.com/doi/10.1142/S0218348X25401711).
 
 ```bibtex
-@article{fractals2025ppo,
+@article{doi:10.1142/S0218348X25401711,
   title={Proximal Policy Optimization for Collision Avoidance and Motion Planning in Autonomous Vehicles},
   journal={Fractals},
   year={2025},
   doi={10.1142/S0218348X25401711},
-  publisher={World Scientific Publishing Company}
+  publisher={World Scientific Publishing Company},
+  note={For complete citation information, see https://doi.org/10.1142/S0218348X25401711}
 }
 ```
 
