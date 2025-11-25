@@ -13,16 +13,13 @@
 ## 📊 Conference Poster
 
 <p align="center">
-  <strong>MMCS 2024 Conference Poster</strong>
+  <strong>MMCS Paper Poster</strong>
 </p>
 
 <p align="center">
   <img src="Poster/P_MPCA.png" alt="MMCS 2024 Conference Poster" width="100%">
 </p>
 
-<p align="center">
-  <a href="./Poster/MMCS-2024_Fractals.pdf"><strong>📄 Download Full Poster as PDF</strong></a>
-</p>
 
 ---
 
