@@ -17,7 +17,7 @@ Traditional Autonomous Driving Systems (ADS) often struggle with inefficient dis
 
 Below is the official poster for the MMCS 2024 conference.
 
-![MMCS 2024 Conference Poster](./Poster/MMCS-2024_Fractals.pdf)
+![MMCS 2024 Conference Poster](./Poster/P_MPCA.png)
 
 > **[📄 Download Full Poster as PDF](./Poster/MMCS-2024_Fractals.pdf)**
 
